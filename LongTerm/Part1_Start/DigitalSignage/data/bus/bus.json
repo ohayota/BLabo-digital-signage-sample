@@ -1,0 +1,296 @@
+[
+    {
+        "line_name": "74系統",
+        "departure_hour": 6,
+        "departure_minute": 54,
+        "is_holiday": false
+    },
+    {
+        "line_name": "74系統",
+        "departure_hour": 6,
+        "departure_minute": 54,
+        "is_holiday": true
+    },
+    {
+        "line_name": "67系統",
+        "departure_hour": 7,
+        "departure_minute": 25,
+        "is_holiday": false
+    },
+    {
+        "line_name": "67系統",
+        "departure_hour": 7,
+        "departure_minute": 46,
+        "is_holiday": false
+    },
+    {
+        "line_name": "67系統",
+        "departure_hour": 7,
+        "departure_minute": 50,
+        "is_holiday": true
+    },
+    {
+        "line_name": "67系統",
+        "departure_hour": 8,
+        "departure_minute": 10,
+        "is_holiday": false
+    },
+    {
+        "line_name": "67系統",
+        "departure_hour": 8,
+        "departure_minute": 23,
+        "is_holiday": true
+    },
+    {
+        "line_name": "67系統",
+        "departure_hour": 8,
+        "departure_minute": 35,
+        "is_holiday": false
+    },
+    {
+        "line_name": "67系統",
+        "departure_hour": 9,
+        "departure_minute": 16,
+        "is_holiday": false
+    },
+    {
+        "line_name": "67系統",
+        "departure_hour": 9,
+        "departure_minute": 16,
+        "is_holiday": true
+    },
+    {
+        "line_name": "74系統",
+        "departure_hour": 9,
+        "departure_minute": 38,
+        "is_holiday": false
+    },
+    {
+        "line_name": "74系統",
+        "departure_hour": 9,
+        "departure_minute": 38,
+        "is_holiday": true
+    },
+    {
+        "line_name": "67系統",
+        "departure_hour": 9,
+        "departure_minute": 51,
+        "is_holiday": false
+    },
+    {
+        "line_name": "67系統",
+        "departure_hour": 9,
+        "departure_minute": 51,
+        "is_holiday": true
+    },
+    {
+        "line_name": "67系統",
+        "departure_hour": 10,
+        "departure_minute": 41,
+        "is_holiday": false
+    },
+    {
+        "line_name": "67系統",
+        "departure_hour": 11,
+        "departure_minute": 6,
+        "is_holiday": false
+    },
+    {
+        "line_name": "67系統",
+        "departure_hour": 11,
+        "departure_minute": 6,
+        "is_holiday": true
+    },
+    {
+        "line_name": "67系統",
+        "departure_hour": 11,
+        "departure_minute": 31,
+        "is_holiday": false
+    },
+    {
+        "line_name": "67系統",
+        "departure_hour": 11,
+        "departure_minute": 31,
+        "is_holiday": true
+    },
+    {
+        "line_name": "67系統",
+        "departure_hour": 12,
+        "departure_minute": 11,
+        "is_holiday": false
+    },
+    {
+        "line_name": "67系統",
+        "departure_hour": 12,
+        "departure_minute": 11,
+        "is_holiday": true
+    },
+    {
+        "line_name": "67系統",
+        "departure_hour": 12,
+        "departure_minute": 46,
+        "is_holiday": false
+    },
+    {
+        "line_name": "67系統",
+        "departure_hour": 12,
+        "departure_minute": 46,
+        "is_holiday": true
+    },
+    {
+        "line_name": "67系統",
+        "departure_hour": 13,
+        "departure_minute": 26,
+        "is_holiday": false
+    },
+    {
+        "line_name": "67系統",
+        "departure_hour": 13,
+        "departure_minute": 26,
+        "is_holiday": true
+    },
+    {
+        "line_name": "74系統",
+        "departure_hour": 13,
+        "departure_minute": 46,
+        "is_holiday": false
+    },
+    {
+        "line_name": "74系統",
+        "departure_hour": 13,
+        "departure_minute": 46,
+        "is_holiday": true
+    },
+    {
+        "line_name": "67系統",
+        "departure_hour": 14,
+        "departure_minute": 1,
+        "is_holiday": false
+    },
+    {
+        "line_name": "67系統",
+        "departure_hour": 14,
+        "departure_minute": 1,
+        "is_holiday": true
+    },
+    {
+        "line_name": "67系統",
+        "departure_hour": 14,
+        "departure_minute": 43,
+        "is_holiday": false
+    },
+    {
+        "line_name": "67系統",
+        "departure_hour": 14,
+        "departure_minute": 43,
+        "is_holiday": true
+    },
+    {
+        "line_name": "74系統",
+        "departure_hour": 14,
+        "departure_minute": 46,
+        "is_holiday": false
+    },
+    {
+        "line_name": "74系統",
+        "departure_hour": 14,
+        "departure_minute": 46,
+        "is_holiday": true
+    },
+    {
+        "line_name": "67系統",
+        "departure_hour": 15,
+        "departure_minute": 18,
+        "is_holiday": true
+    },
+    {
+        "line_name": "67系統",
+        "departure_hour": 15,
+        "departure_minute": 20,
+        "is_holiday": false
+    },
+    {
+        "line_name": "67系統",
+        "departure_hour": 15,
+        "departure_minute": 58,
+        "is_holiday": false
+    },
+    {
+        "line_name": "67系統",
+        "departure_hour": 15,
+        "departure_minute": 58,
+        "is_holiday": true
+    },
+    {
+        "line_name": "67系統",
+        "departure_hour": 16,
+        "departure_minute": 43,
+        "is_holiday": true
+    },
+    {
+        "line_name": "67系統",
+        "departure_hour": 16,
+        "departure_minute": 55,
+        "is_holiday": false
+    },
+    {
+        "line_name": "67系統",
+        "departure_hour": 17,
+        "departure_minute": 25,
+        "is_holiday": false
+    },
+    {
+        "line_name": "67系統",
+        "departure_hour": 17,
+        "departure_minute": 29,
+        "is_holiday": true
+    },
+    {
+        "line_name": "67系統",
+        "departure_hour": 18,
+        "departure_minute": 9,
+        "is_holiday": true
+    },
+    {
+        "line_name": "67系統",
+        "departure_hour": 18,
+        "departure_minute": 15,
+        "is_holiday": false
+    },
+    {
+        "line_name": "67系統",
+        "departure_hour": 18,
+        "departure_minute": 50,
+        "is_holiday": false
+    },
+    {
+        "line_name": "67系統",
+        "departure_hour": 18,
+        "departure_minute": 52,
+        "is_holiday": true
+    },
+    {
+        "line_name": "67系統",
+        "departure_hour": 19,
+        "departure_minute": 43,
+        "is_holiday": false
+    },
+    {
+        "line_name": "67系統",
+        "departure_hour": 19,
+        "departure_minute": 43,
+        "is_holiday": true
+    },
+    {
+        "line_name": "67系統",
+        "departure_hour": 20,
+        "departure_minute": 13,
+        "is_holiday": false
+    },
+    {
+        "line_name": "67系統",
+        "departure_hour": 20,
+        "departure_minute": 13,
+        "is_holiday": true
+    }
+]
