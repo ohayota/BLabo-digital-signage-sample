@@ -160,7 +160,7 @@ final String CONSUMER_KEY = "";
 final String CONSUMER_KEY_SECRET = "";
 final String ACCESS_TOKEN = "";
 final String ACCESS_TOKEN_SECRET = "";
-final long TWEET_ID = Long.parseLong("");
+final long TWEET_ID = Long.parseLong("0");
 
 // 現在の天気を表示する、WeatherRModuleで使う変数
 boolean isUpdatedWeather = false; // 天気が正しく取得できたかどうか。
@@ -195,7 +195,7 @@ PImage twitterUserIcon; // アカウントのアイコン。
 String twitterUserName = ""; // アカウントの表示名。
 String twitterUserScreenName = ""; // アカウントの@がついたユーザ名。
 String tweetText = ""; // ツイートの文章。
-PImage[] tweetImages; // ツイートから取得できた画像たち（上限3枚）。
+PImage[] tweetImages = new PImage[3]; // ツイートから取得できた画像たち（上限3枚）。
 PImage dummy360x360; // Twitterから画像が取得できなかったときに表示するダミー画像。
 PGraphics twitterBackground; // TwitterRModuleの背景。
 
